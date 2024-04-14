@@ -7,6 +7,7 @@ I'm a passionate frontend developer with expertise in JavaScript, HTML, CSS, Rea
 - 👨‍💻 Frontend Developer
 - 🌐 Open Source Contributor
 - ✨ Enthusiast of clean and efficient code
+- 🎨 UI/UX Designer
 
 ## Socials
 
